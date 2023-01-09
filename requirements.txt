@@ -3,6 +3,5 @@ pandas
 numpy
 eikon
 datetime
-warnings
 plotly
 matplotlib
