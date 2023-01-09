@@ -5,3 +5,5 @@ eikon
 datetime
 plotly
 matplotlib
+altair
+pyreadr
