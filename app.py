@@ -2,9 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 # import eikon as ek
-import pyreadr
 import altair as alt
-from tqdm import tqdm
 import datetime
 import warnings
 import plotly
